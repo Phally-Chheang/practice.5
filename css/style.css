@@ -1,0 +1,46 @@
+table{
+    font-family: Arial, sans-serif;
+    /* border:1px solid black ; */
+    width:80%;
+    padding: 10px;
+    border-collapse: collapse;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    margin: 10% auto;
+    
+}
+th, td{
+    /* border: 1px solid black; */
+    padding: 10px;
+    border: none;
+}
+th{
+    font-weight: bold;
+    background-color: rgb(57, 152, 57);
+    text-align:left ;
+}
+tbody tr{
+    border: 1px solid rgb(235, 228, 228);
+}
+.action-btn1{
+    background-color: rgb(32, 32, 177);
+    color: white;
+    border:none ;
+    border-radius: 4px;
+    padding: 10px;
+}
+.action-btn2{
+    background-color: rgb(222, 26, 26);
+    color: white;
+    border:none ;
+    border-radius: 4px;
+    padding: 10px;
+}
+.action-btn3{
+    background-color: orange;
+    color: white;
+    border:none ;
+    border-radius: 4px;
+    padding: 10px;
+}
